@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Kauã 👋
 
-- 🔭 Atualmente não estou trabalhando em nenhum projeto
-- 🌱 Estou fazendo curso de FullStack
+- 🔭 Atualmente estou em processo de aprendizado.
+- 🌱 Sigo fazendo o curso de FullStack.
 
