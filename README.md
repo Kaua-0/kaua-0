@@ -3,11 +3,10 @@
 - 🔭 Atualmente estou em processo de aprendizado.
 - 🌱 Sigo fazendo o curso de FullStack.
 
-<div>
-<a href="https://github.com/Kaua-0">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-0&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaua-0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Kaua-0&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kaua-0&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-0&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 - ⚡ O que eu estudo e utilizo:
 
