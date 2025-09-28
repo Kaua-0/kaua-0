@@ -6,9 +6,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kaua-0&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kaua-0&theme=dark&hide_border=true)
-<div align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-0&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaua-0&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 - ⚡ O que eu estudo e utilizo:
 <br/>
